@@ -1,0 +1,173 @@
+  .container{
+ display:flex;
+ flex-wrap:wrap;
+ position: absolute;
+ left:25%;
+ right: 25%;
+  }
+ .meeting
+ {	
+ position: relative;
+ top:180px;
+ }
+ .green
+  {
+	 background-color: seagreen;
+	 position:relative;
+	 top:-550px;
+	 left:7%;
+	 height:55px;
+	 width:55px;
+	 box-shadow:inset 8px 8px darkgreen ;
+ }
+ @media only screen and(max-width:576px)
+ {
+ 	.green
+ 	{
+ 		width:20px;
+ 	}
+ }
+ .com
+ {
+	 position: relative;
+	 top:-595px;
+	 left:13%;
+	 color:#ff4f00;
+    font-weight: bold;
+ }
+ .name
+ {
+	 position: relative;
+	 top:-650px;
+	 left:32%;
+ }
+ .we
+ {
+	 background-color: #27504B;
+	 position: relative;
+	 top:-756px;
+	 left:64%;
+	 height: 320px;
+	 width:300px;
+	 opacity: 0.8;
+	 border-radius: 0px 0px 140px 140px;
+	 color: white;
+	 padding-top: 4%;
+	}
+ .our
+ {
+	 color:green;
+	 position: relative;
+	 top:-230px;
+	 left:15%;
+ }
+ @mediascreen and(max-width:576px)
+ {
+ 	.our
+ 	{
+ 	 color:green;
+	 position: relative;
+	 top:30px;
+	 left:1%;	
+ 	}
+ }
+ .about
+  {
+	  position: relative;
+	  top:-858px;
+     left:57%;
+     width: 38%;
+     height:100%;
+     background-color: #27504b;
+     color:white;
+     padding: 35px;
+     opacity: 0.9;
+ }
+ .orange
+ {
+	  background-color:#ff4f00;
+	  position: relative;
+	  top:-858px;
+     left:56.8%;
+     width: 37%;
+     height: 55%;
+     color:white;
+     padding: 35px;
+   }
+ .blue
+    {
+     background-color:#E5EBE9;
+	  position: relative;
+	  bottom:-50px;
+	  width: 122%;
+     left:-11%;
+     color:blue;
+     padding: 35px;
+    }
+    .dabhi
+    {
+    	color:#ff4f00;
+    	position: relative;
+    	top:-198px;
+    	left: 2%;
+    }
+    .vice
+    {
+    	color:green;
+    	position: relative;
+    	top:-250px;
+    	left:7%;
+    }
+    .ispum
+    {
+    	position: relative;
+    	top:-255px;
+    	left:7%;
+    }
+    .hetal
+    {
+    	color:#ff4f00;
+    	position: relative;
+    	top:-220px;
+    	left: 2%;
+    }
+    .vise
+    {
+    	color:green;
+    	position: relative;
+    	top:-270px;
+    	left:7%;
+    }
+    .lorem
+    {
+    	position: relative;
+    	top:-272px;
+    	left:7%;
+    }
+    .bat
+    {
+    	color:#ff4f00;
+    	position: relative;
+    	top:-240px;
+    	left: 2%;
+    }
+    .at
+    {
+    	color:green;
+    	position: relative;
+    	top:-290px;
+    	left:7%;
+    }
+    .dolor
+    {
+    	position: relative;
+    	top:-294px;
+    	left:7%;
+    }
+    .hori
+    {
+    	color:#ff4f00;
+    	position: relative;
+    	top: -820px;
+    	height: 25px;
+    }
